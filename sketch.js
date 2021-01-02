@@ -6,7 +6,7 @@ var trex, trex_running, trex_collided;
 var ground, invisibleGround, groundImage;
 
 var cloudsGroup, cloudImage;
-var obstaclesGroup, obstacle1, obstacle2, obstacle3, obstacle4, obstacle5, obstacle6;
+var obstaclesGroup, obstacle1, obtsacle2, obstacle3, obstacle4, obstacle5, obstacle6;
 
 var score=0;
 
